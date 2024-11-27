@@ -295,3 +295,5 @@ D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\r
 D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\obj\Debug\net8.0\OnlineCenter.MvcApplicationPartsAssemblyInfo.cs
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Utilities.dll
+D:\.net\final Project\Online_Centre\OnlineCenter\OnlineCenter\bin\Debug\net8.0\Utilities.pdb

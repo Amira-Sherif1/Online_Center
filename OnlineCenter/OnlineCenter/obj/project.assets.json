@@ -3070,6 +3070,16 @@
         "runtime": {
           "bin/placeholder/Models.dll": {}
         }
+      },
+      "Utilities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Utilities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Utilities.dll": {}
+        }
       }
     }
   },
@@ -8348,6 +8358,11 @@
       "type": "project",
       "path": "../Models/Models.csproj",
       "msbuildProject": "../Models/Models.csproj"
+    },
+    "Utilities/1.0.0": {
+      "type": "project",
+      "path": "../Utilities/Utilities.csproj",
+      "msbuildProject": "../Utilities/Utilities.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8360,7 +8375,8 @@
       "Microsoft.EntityFrameworkCore.Sqlite >= 8.0.11",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.11",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.7",
-      "Models >= 1.0.0"
+      "Models >= 1.0.0",
+      "Utilities >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -8395,6 +8411,9 @@
             },
             "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Models\\Models.csproj": {
               "projectPath": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Models\\Models.csproj"
+            },
+            "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Utilities\\Utilities.csproj": {
+              "projectPath": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Utilities\\Utilities.csproj"
             }
           }
         }

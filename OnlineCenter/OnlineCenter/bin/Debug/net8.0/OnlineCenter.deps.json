@@ -16,7 +16,8 @@
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.11",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.11",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.7",
-          "Models": "1.0.0"
+          "Models": "1.0.0",
+          "Utilities": "1.0.0"
         },
         "runtime": {
           "OnlineCenter.dll": {}
@@ -2184,6 +2185,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "Utilities/1.0.0": {
+        "runtime": {
+          "Utilities.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -3410,6 +3419,11 @@
       "sha512": ""
     },
     "Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Utilities/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
