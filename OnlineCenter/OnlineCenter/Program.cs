@@ -1,4 +1,8 @@
 using DataAccess;
+using DataAccess.Reposetory;
+using DataAccess.Reposetory.IReposetory;
+using DataAccess.Repository;
+using DataAccsess.Reposetory.IReposetory;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Models;
@@ -19,6 +23,18 @@ namespace OnlineCenter
 
             builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<ApplicationDbContext>();
             //builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<ApplicationDbContext>();
+
+            builder.Services.AddScoped<ITeacherRepository,TeacherRepository>();
+            builder.Services.AddScoped<ISubjectRepsitory, SubjectRepository>();
+            builder.Services.AddScoped<IStudentRepository, StudentRepository>();
+            builder.Services.AddScoped<ILectureRepository, LectureRepository>();
+            builder.Services.AddScoped<IGradeRepository, GradeRepository>();
+            builder.Services.AddScoped<ICourseRepository, CourseRepository>();
+            builder.Services.AddScoped<ICartRepository, CartRepository>();
+            builder.Services.AddScoped<IBookRepository, BookRepository>();
+            builder.Services.AddScoped<IAssistantRepository, AssistantRepository>();
+            builder.Services.AddScoped<IAnswerRepository, AnswerRepository>();
+
 
 
             var app = builder.Build();
