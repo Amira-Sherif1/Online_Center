@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\onlinecenter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\dataaccess\\migrations\\20241130211829_editapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20241130211829_editapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE602B44-29E1-4A5A-B37F-5D56C6492ADE}|Models\\Models.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,12 +19,16 @@
       "RelativeMoniker": "D:0:0:{CE602B44-29E1-4A5A-B37F-5D56C6492ADE}|Models\\Models.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\onlinecenter\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\onlinecenter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\onlinecenter\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5984266C-51DB-43A2-A7AD-83E0FD812F49}|OnlineCenter\\OnlineCenter.csproj|solutionrelative:onlinecenter\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,12 +55,12 @@
           ]
         },
         {
-          "DockedHeight": 4,
-          "SelectedChildIndex": 0,
+          "DockedHeight": 18,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\appsettings.json",
               "RelativeDocumentMoniker": "OnlineCenter\\appsettings.json",
@@ -69,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -77,18 +81,17 @@
               "RelativeToolTip": "DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T20:44:04.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T20:44:04.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\DataAccess\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "DataAccess\\ApplicationDbContext.cs",
               "ToolTip": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\DataAccess\\ApplicationDbContext.cs",
               "RelativeToolTip": "DataAccess\\ApplicationDbContext.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAcwM0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T20:36:11.222Z",
               "EditorCaption": ""
@@ -101,7 +104,7 @@
               "RelativeDocumentMoniker": "Models\\Teacher.cs",
               "ToolTip": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Models\\Teacher.cs",
               "RelativeToolTip": "Models\\Teacher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T20:17:52.559Z",
               "EditorCaption": ""
@@ -114,14 +117,14 @@
               "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
               "ToolTip": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Models\\ApplicationUser.cs",
               "RelativeToolTip": "Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T20:17:03.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "OnlineCenter\\Properties\\launchSettings.json",
@@ -129,14 +132,27 @@
               "RelativeToolTip": "OnlineCenter\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-30T20:38:57.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T20:38:57.813Z"
             }
           ]
         },
         {
-          "SelectedChildIndex": -1,
+          "DockedHeight": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241130211829_editapplicationuser.cs",
+              "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\DataAccess\\Migrations\\20241130211829_editapplicationuser.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20241130211829_editapplicationuser.cs",
+              "ToolTip": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\DataAccess\\Migrations\\20241130211829_editapplicationuser.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20241130211829_editapplicationuser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:18:30.54Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"

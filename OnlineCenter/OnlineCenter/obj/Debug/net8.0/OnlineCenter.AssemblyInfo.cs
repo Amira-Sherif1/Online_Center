@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnlineCenter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+798011cf339fab2e98cc6dc16004ee9d6de8a731")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a31b987599725ec313a602cc02462e593b62610")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnlineCenter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnlineCenter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

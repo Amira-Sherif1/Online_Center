@@ -167,9 +167,7 @@ namespace DataAccess
                 .HasOne(tc => tc.Course)
                 .WithMany(c => c.TeacherCourses)
                 .HasForeignKey(tc => tc.CourseId);
-                
-
-
+               
 
             modelBuilder.Entity<Admin>()
             .HasKey(c => new { c.ApplicationuserId });
@@ -183,6 +181,31 @@ namespace DataAccess
 
             modelBuilder.Entity<Assistant>()
            .HasKey(c => new { c.ApplicationUserId });
+
+            modelBuilder.Entity<ApplicationUser>()
+              .HasOne(tc => tc.Assistant)
+              .WithOne(c => c.ApplicationUser)
+              .HasForeignKey<ApplicationUser>(tc => tc.AssistantId);
+
+            modelBuilder.Entity<ApplicationUser>()
+              .HasOne(tc => tc.Admin)
+              .WithOne(c => c.Applicationuser)
+              .HasForeignKey<ApplicationUser>(tc => tc.AdminId);
+
+            modelBuilder.Entity<ApplicationUser>()
+              .HasOne(tc => tc.Teacher)
+              .WithOne(c => c.ApplicationUser)
+              .HasForeignKey<ApplicationUser>(tc => tc.TeacherId);
+
+            modelBuilder.Entity<ApplicationUser>()
+              .HasOne(tc => tc.Student)
+              .WithOne(c => c.ApplicationUser)
+              .HasForeignKey<ApplicationUser>(tc => tc.StudentId);
+
+
+
+
+
 
 
         }
