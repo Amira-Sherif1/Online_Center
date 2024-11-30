@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\dataaccess\\migrations\\20241130211829_editapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20241130211829_editapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\dataaccess\\migrations\\20241130212326_addstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20241130212326_addstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE602B44-29E1-4A5A-B37F-5D56C6492ADE}|Models\\Models.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\models\\studentlecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE602B44-29E1-4A5A-B37F-5D56C6492ADE}|Models\\Models.csproj|solutionrelative:models\\studentlecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\dataaccess\\migrations\\20241130211829_editapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F9BADDB-F4DF-453D-810C-88A5346DE72D}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\migrations\\20241130211829_editapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CE602B44-29E1-4A5A-B37F-5D56C6492ADE}|Models\\Models.csproj|d:\\.net\\final project\\online_centre\\onlinecenter\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,12 +63,25 @@
           ]
         },
         {
-          "DockedHeight": 12,
-          "SelectedChildIndex": 2,
+          "DockedHeight": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "StudentLecture.cs",
+              "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Models\\StudentLecture.cs",
+              "RelativeDocumentMoniker": "Models\\StudentLecture.cs",
+              "ToolTip": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Models\\StudentLecture.cs",
+              "RelativeToolTip": "Models\\StudentLecture.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA8wA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:21:47.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\appsettings.json",
               "RelativeDocumentMoniker": "OnlineCenter\\appsettings.json",
@@ -68,12 +89,11 @@
               "RelativeToolTip": "OnlineCenter\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-30T20:45:44.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T20:45:44.559Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -85,20 +105,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\DataAccess\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "DataAccess\\ApplicationDbContext.cs",
               "ToolTip": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\DataAccess\\ApplicationDbContext.cs",
               "RelativeToolTip": "DataAccess\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAL0AAAAAAAAAAAAcwM0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T20:36:11.222Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Teacher.cs",
               "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Models\\Teacher.cs",
               "RelativeDocumentMoniker": "Models\\Teacher.cs",
@@ -106,12 +126,11 @@
               "RelativeToolTip": "Models\\Teacher.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T20:17:52.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T20:17:52.559Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ApplicationUser.cs",
               "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
@@ -119,12 +138,11 @@
               "RelativeToolTip": "Models\\ApplicationUser.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAcwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T20:17:03.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T20:17:03.149Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "OnlineCenter\\Properties\\launchSettings.json",
@@ -137,12 +155,25 @@
           ]
         },
         {
-          "DockedHeight": 8,
+          "DockedHeight": 11,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20241130212326_addstatus.cs",
+              "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\DataAccess\\Migrations\\20241130212326_addstatus.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Migrations\\20241130212326_addstatus.cs",
+              "ToolTip": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\DataAccess\\Migrations\\20241130212326_addstatus.cs",
+              "RelativeToolTip": "DataAccess\\Migrations\\20241130212326_addstatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T21:23:27.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "20241130211829_editapplicationuser.cs",
               "DocumentMoniker": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\DataAccess\\Migrations\\20241130211829_editapplicationuser.cs",
               "RelativeDocumentMoniker": "DataAccess\\Migrations\\20241130211829_editapplicationuser.cs",

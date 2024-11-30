@@ -13,5 +13,7 @@ namespace Models
         public int LectureId { get; set; }
         public Lecture Lecture { get; set; }
 
+        public bool status { get; set; } = false;
+
     }
 }
