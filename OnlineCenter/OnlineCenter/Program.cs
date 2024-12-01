@@ -4,8 +4,10 @@ using DataAccess.Reposetory.IReposetory;
 using DataAccess.Repository;
 using DataAccsess.Reposetory.IReposetory;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.EntityFrameworkCore;
 using Models;
+using Utilities;
 
 namespace OnlineCenter
 {
@@ -35,6 +37,7 @@ namespace OnlineCenter
             builder.Services.AddScoped<IAssistantRepository, AssistantRepository>();
             builder.Services.AddScoped<IAnswerRepository, AnswerRepository>();
 
+            builder.Services.AddTransient<IEmailSender, EmailSender>();
 
 
             var app = builder.Build();
