@@ -12,7 +12,7 @@ namespace Utilities
             {
                 EnableSsl = true,
                 UseDefaultCredentials = false,
-                Credentials = new NetworkCredential("alaa.moh.latif@gmail.com", "gmvg aczo ukof kniv")
+                Credentials = new NetworkCredential("alaa.moh.latif@gmail.com", "eeyl xdbd gige lwms")
             };
 
             var message = new MailMessage();
