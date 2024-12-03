@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\DataAccess\\DataAccess.csproj": {}
+    "D:\\.net\\final Project\\Online_Centre\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\DataAccess\\DataAccess.csproj": {
+    "D:\\.net\\final Project\\Online_Centre\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\.net\\final Project\\Online_Centre\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\DataAccess\\DataAccess.csproj",
+        "projectPath": "D:\\.net\\final Project\\Online_Centre\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Amira\\.nuget\\packages\\",
-        "outputPath": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\DataAccess\\obj\\",
+        "outputPath": "D:\\.net\\final Project\\Online_Centre\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Amira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Models\\Models.csproj": {
-                "projectPath": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Models\\Models.csproj"
+              "D:\\.net\\final Project\\Online_Centre\\Models\\Models.csproj": {
+                "projectPath": "D:\\.net\\final Project\\Online_Centre\\Models\\Models.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Models\\Models.csproj": {
+    "D:\\.net\\final Project\\Online_Centre\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Models\\Models.csproj",
+        "projectUniqueName": "D:\\.net\\final Project\\Online_Centre\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Models\\Models.csproj",
+        "projectPath": "D:\\.net\\final Project\\Online_Centre\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\Amira\\.nuget\\packages\\",
-        "outputPath": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Models\\obj\\",
+        "outputPath": "D:\\.net\\final Project\\Online_Centre\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Amira\\AppData\\Roaming\\NuGet\\NuGet.Config",

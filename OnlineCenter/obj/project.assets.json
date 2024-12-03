@@ -3074,6 +3074,14 @@
       "Utilities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.11",
+          "Microsoft.AspNetCore.Identity.UI": "8.0.11",
+          "Microsoft.EntityFrameworkCore": "8.0.11",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.11",
+          "Microsoft.EntityFrameworkCore.Sqlite": "8.0.11",
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.7"
+        },
         "compile": {
           "bin/placeholder/Utilities.dll": {}
         },
@@ -8385,11 +8393,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\OnlineCenter.csproj",
+      "projectUniqueName": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter.csproj",
       "projectName": "OnlineCenter",
-      "projectPath": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\OnlineCenter.csproj",
+      "projectPath": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter.csproj",
       "packagesPath": "C:\\Users\\Amira\\.nuget\\packages\\",
-      "outputPath": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\OnlineCenter\\obj\\",
+      "outputPath": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Amira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8406,14 +8414,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\DataAccess\\DataAccess.csproj"
+            "D:\\.net\\final Project\\Online_Centre\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\.net\\final Project\\Online_Centre\\DataAccess\\DataAccess.csproj"
             },
-            "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Models\\Models.csproj": {
-              "projectPath": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Models\\Models.csproj"
+            "D:\\.net\\final Project\\Online_Centre\\Models\\Models.csproj": {
+              "projectPath": "D:\\.net\\final Project\\Online_Centre\\Models\\Models.csproj"
             },
-            "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Utilities\\Utilities.csproj": {
-              "projectPath": "D:\\.net\\final Project\\Online_Centre\\OnlineCenter\\Utilities\\Utilities.csproj"
+            "D:\\.net\\final Project\\Online_Centre\\Utilities\\Utilities.csproj": {
+              "projectPath": "D:\\.net\\final Project\\Online_Centre\\Utilities\\Utilities.csproj"
             }
           }
         }
